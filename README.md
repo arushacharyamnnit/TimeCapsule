@@ -1,7 +1,11 @@
 # TimeCapsule
 App for storing notes and imp info locally in your phone for different users:
-Signup login feature
-shared preferences used
-firebase for authentication
-xml
-java
+1.)Signup login feature
+
+2.)shared preferences used
+
+3.)firebase for authentication
+
+4.)xml
+
+5.)java
